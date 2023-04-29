@@ -1,0 +1,370 @@
+{
+    "asset": {
+        "copyright": "2019 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - 0897bb3786688dd8ac0e16e7ca439aa83b5dca11",
+        "version": "2.0"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 18792,
+            "type": "VEC3",
+            "max": [
+                0.019828740507364274,
+                0.1903141736984253,
+                0.019439369440078737
+            ],
+            "min": [
+                -0.019049998372793199,
+                0.17739678919315339,
+                -0.019439369440078737
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 18792,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 18792,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 106872,
+            "type": "SCALAR",
+            "max": [
+                18791.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 40364,
+            "type": "VEC3",
+            "max": [
+                0.029897170141339303,
+                0.1878359168767929,
+                0.029897158965468408
+            ],
+            "min": [
+                -0.029897170141339303,
+                0.0007089099963195622,
+                -0.029897158965468408
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 40364,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5126,
+            "count": 40364,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5125,
+            "count": 238272,
+            "type": "SCALAR",
+            "max": [
+                40363.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 8,
+            "componentType": 5126,
+            "count": 715,
+            "type": "VEC3",
+            "max": [
+                0.01985483057796955,
+                0.17733992636203767,
+                0.019465459510684015
+            ],
+            "min": [
+                -0.019076090306043626,
+                0.1741378754377365,
+                -0.019465459510684015
+            ]
+        },
+        {
+            "bufferView": 9,
+            "componentType": 5126,
+            "count": 715,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 10,
+            "componentType": 5126,
+            "count": 715,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 11,
+            "componentType": 5125,
+            "count": 3840,
+            "type": "SCALAR",
+            "max": [
+                714.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 225504,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 225504,
+            "byteLength": 225504,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 451008,
+            "byteLength": 150336,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 601344,
+            "byteLength": 427488,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1028832,
+            "byteLength": 484368,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1513200,
+            "byteLength": 484368,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1997568,
+            "byteLength": 322912,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2320480,
+            "byteLength": 953088,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 3273568,
+            "byteLength": 8580,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 3282148,
+            "byteLength": 8580,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 3290728,
+            "byteLength": 5720,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 3296448,
+            "byteLength": 15360,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 3311808,
+            "uri": "testpo_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.000010000000656873454,
+                "yfov": 0.6024156808853149,
+                "zfar": 2.0,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.18782076239585877,
+                    0.016807375475764276,
+                    0.016807375475764276,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.028999999165534974
+            },
+            "name": "Plastic"
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.0,
+                    0.8713672161102295,
+                    0.8713672161102295,
+                    0.25
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.0
+            },
+            "alphaMode": "BLEND",
+            "name": "Glass",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.6724432110786438,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.5946000218391419
+            },
+            "name": "Lid Material"
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Lid",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "Bottle",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 5,
+                        "POSITION": 4,
+                        "TEXCOORD_0": 6
+                    },
+                    "indices": 7,
+                    "material": 1
+                }
+            ]
+        },
+        {
+            "name": "Safety Ring",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 8,
+                        "NORMAL": 9,
+                        "TEXCOORD_0": 10
+                    },
+                    "indices": 11,
+                    "material": 2
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                0.5327168107032776,
+                0.2947150468826294,
+                0.526685357093811
+            ],
+            "rotation": [
+                -0.12059047073125839,
+                0.379409521818161,
+                0.04995020851492882,
+                0.9159756302833557
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "children": [
+                2,
+                3,
+                4
+            ],
+            "translation": [
+                0.0,
+                -0.00004923879896523431,
+                0.0
+            ],
+            "scale": [
+                0.06945664435625076,
+                0.06945664435625076,
+                0.06945664435625076
+            ],
+            "name": "Square Bottle"
+        },
+        {
+            "mesh": 0,
+            "name": "Lid"
+        },
+        {
+            "mesh": 1,
+            "name": "Bottle"
+        },
+        {
+            "mesh": 2,
+            "name": "Safety Ring"
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1
+            ],
+            "name": "scene"
+        }
+    ],
+    "scene": 0
+}
